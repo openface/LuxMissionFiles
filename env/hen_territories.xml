@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2224969511">
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7760" z="2110" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7832.5" z="2670" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7470" z="2580" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="6662.5" z="2045" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="9365" z="1020" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="9512.5" z="1145" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5605" z="2697.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4350" z="2020" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4190" z="2092.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4630" z="3122.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5797.5" z="1915" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7950" z="2917.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="8220" z="3480" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7950" z="3702.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="7695" z="4157.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="8147.5" z="3915" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4792.5" z="4207.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5000" z="4342.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5810" z="3912.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5705" z="4092.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="3707.5" z="4542.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5327.5" z="4672.5" r="100"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="8272.5" z="4812.5" r="100"/>
+    </territory>
+</territory-type>

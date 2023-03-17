@@ -1,0 +1,37 @@
+{
+    "Triggers":
+	[
+		{
+		   "Position": [ 8995, 37, 13703.5],
+		   "Orientation": [ 0, 0, 0 ],
+		   "Size": [ 18, 8, 11 ],
+		   "EyeAccommodation": 1,
+		   "Breadcrumbs": [],
+		   "InterpolationSpeed": 1
+		},
+		
+		
+		{  
+		   "Position": [ 9025.5, 37, 13710.5 ],
+		   "Orientation": [ 0, 0, 0 ],
+		   "Size": [ 43, 8, 25 ],
+		   "EyeAccommodation": 0,
+		   "Breadcrumbs":[],
+		   "InterpolationSpeed": 10
+		},
+		
+		
+		{  
+		   "Position": [ 9203.5, 31, 13769 ],
+		   "Orientation": [ 0, 0, 0 ],
+		   "Size": [ 313, 20, 206 ],
+		   "EyeAccommodation": 0,
+		   "Breadcrumbs": [],
+		   "InterpolationSpeed": 1
+		}
+		
+		
+		
+	
+	]
+}
