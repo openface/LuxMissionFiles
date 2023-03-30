@@ -5,7 +5,7 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 
-	//GetCEApi().ExportProxyData("7680 0 7680", 15000);	// standard map groups (buildings) export, terrain center and radius needs to be specified
+	//GetCEApi().ExportProxyData("7680 0 7680", 20000);	// standard map groups (buildings) export, terrain center and radius needs to be specified
 	//GetCEApi().ExportClusterData();						// cluster-type map groups export (fruit trees etc.)
 	
 	//DATE RESET AFTER ECONOMY INIT-------------------------

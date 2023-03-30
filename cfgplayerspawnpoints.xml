@@ -21,33 +21,21 @@
 		</generator_params>
 
 		<generator_posbubbles>
-			<!-- far SE island -->
-			<pos x="10897" z="541" />
-			<!-- SE peninsula -->
-			<pos x="10155" z="738" />
-			<!-- above east village -->
-			<pos x="9732" z="1071" />
-			<!-- big sandy bay in east -->
-			<pos x="9003" z="913" />
-			<!-- NE chayhad outskirts near east ind -->
-			<pos x="8378" z="2222" />
-			<!-- far west chayhad beach near contruction building -->
-			<pos x="6271" z="1575" />
-			<!-- far west chayhad in hilly gully -->
-			<pos x="6607" z="2223" />
-			<!--  west chayhad beach at large ship wreck -->
-			<pos x="6937" z="2022" />
-			<!--  far west chayhad antenna tower -->
-			<pos x="6532" z="2556" />
-			<!--  Praphakhar -->
-			<pos x="4559" z="1537" />
-			<pos x="4421" z="1765" />
-			<pos x="4232" z="1932" />
-			<pos x="4057" z="1973" />
-			<!--  Kong -->
-			<pos x="3414" z="4126" />
-			<pos x="3300" z="4706" />
-			<pos x="3123" z="4865" />
+			
+			<!-- teluk -->
+			<pos x="9857" z="4456" />
+			<!-- chayhad -->
+			<pos x="9566" z="876" />
+			<pos x="8999" z="1150" />
+			<pos x="6936" z="2062" />
+			<pos x="6274" z="1677" />
+			<!-- Prap̣hakhar -->
+			<pos x="4559" z="1544" />
+			<pos x="4091" z="1981" />
+			<!-- Kong -->
+			<pos x="3420" z="4164" />
+			<pos x="3392" z="4571" />
+			<pos x="3158" z="4844" />
 		</generator_posbubbles>
 	</fresh>
 
