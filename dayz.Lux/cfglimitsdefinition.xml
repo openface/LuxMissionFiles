@@ -35,11 +35,13 @@
 		<usage name="Underground"/>
 		<usage name="Comms"/>
 		<usage name="Campus"/>
+		<usage name="Mine"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </valueflags>
 </lists>

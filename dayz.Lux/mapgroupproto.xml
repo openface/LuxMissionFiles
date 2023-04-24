@@ -595,7 +595,165 @@
 			<point pos="5.880664 -14.613087 -1.438270" range="0.25" height="0.25" />
 		</container>
 	</group>
+	<group name="land_ind_old_factory_tower"  lootmax="5">
+		<usage name="Industrial" />
+		<container name="lootshelves" lootmax="5">
+			<category name="weapons" />
+			<category name="containers" />
+			<category name="tools" />
+			<tag name="floor" />
+			<tag name="shelves" />
+			<point pos="-0.787973 -11.079271 6.482105" range="1.00" height="1.00" />
+			<point pos="-1.412973 -6.873271 3.780105" range="1.00" height="1.00" />
+			<point pos="-3.016973 -1.128271 2.919105" range="1.00" height="1.00" />
+			<point pos="3.419027 2.201729 -1.397895" range="0.30" height="0.50" />
+			<point pos="-3.296973 6.426729 -5.517895" range="0.50" height="0.50" />
+			<point pos="0.316027 6.516729 -2.662895" range="1.00" height="1.00" />
+		</container>
+	</group>
+	<group name="land_mine_cavern"  lootmax="7">
+		<usage name="Mine" />
+		<container name="lootground" lootmax="7">
+			<category name="containers" />
+			<category name="tools" />
+			<category name="clothes" />
+			<category name="explosives"/>
+			<tag name="floor" />
+			<tag name="ground" />
+			<point pos="9.245113 -3.035269 -8.686809" range="1.25" height="1.50" />
+			<point pos="11.784113 -3.035269 0.881191" range="1.25" height="1.50" />
+			<point pos="9.008113 -3.035269 10.095191" range="1.25" height="1.50" />
+			<point pos="2.866113 -3.035269 14.289191" range="1.25" height="1.50" />
+			<point pos="-8.119887 -3.035269 7.910191" range="1.25" height="1.50" />
+			<point pos="-10.009887 -3.035269 -1.775809" range="1.25" height="1.50" />
+			<point pos="-8.355887 -3.035269 -10.162809" range="1.25" height="1.50" />
+		</container>
+	</group>
+	<group name="land_mine_palette"  lootmax="1">
+		<usage name="Mine" />
+		<container name="lootshelves" lootmax="1">
+			<category name="containers" />
+			<category name="tools" />
+			<category name="explosives"/>
+			<tag name="floor" />
+			<tag name="ground" />
+			<tag name="shelves" />
+			<point pos="-0.000148 0.081507 -0.000006" range="0.50" height="1.00" />
+		</container>
+	</group>
+	<group name="land_mine_wheelbarrow"  lootmax="1">
+		<usage name="Mine" />
+		<container name="lootshelves" lootmax="1">
+			<category name="containers" />
+			<category name="tools" />
+			<category name="explosives"/>
+			<tag name="floor" />
+			<tag name="ground" />
+			<tag name="shelves" />
+			<point pos="0.000125 0.204755 -0.105928" range="0.12" height="0.30" />
+		</container>
+	</group>
+	<group name="land_mine_bench"  lootmax="2">
+		<usage name="Mine" />
+		<container name="lootshelves" lootmax="2">
+			<category name="containers" />
+			<category name="tools" />
+			<category name="explosives"/>
+			<tag name="shelves" />
+			<point pos="-0.000375 -1.658480 0.612713" range="0.60" height="0.50" />
+			<point pos="-0.000375 0.341520 -0.745287" range="0.60" height="0.50" />
+		</container>
+	</group>
+	<group name="land_wreck_dump_truck"  lootmax="1">
+		<usage name="Industrial" />
+		<container name="lootshelves" lootmax="1">
+			<category name="containers" />
+			<category name="tools" />
+			<category name="clothes"/>
+			<category name="food"/>
+			<tag name="shelves" />
+			<tag name="floor" />
+			<point pos="1.192867 -0.082896 -0.005859" range="0.80" height="1.50" />
 
+		</container>
+	</group>
+	<group name="land_dojo"  lootmax="5">
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Police" />
+		<container name="lootshelves" lootmax="5">
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="food" />
+			<category name="weapons" />
+			<tag name="floor" />
+			<point pos="-7.796664 -6.895720 4.009434" range="1.00" height="1.00" />
+			<point pos="-7.796664 -6.895720 -3.920566" range="1.00" height="1.00" />
+			<point pos="-3.173664 -6.895720 7.375434" range="1.00" height="1.00" />
+			<point pos="-3.173664 -6.895720 -7.647566" range="1.00" height="1.00" />
+			<point pos="3.882336 -6.895720 -7.647566" range="1.00" height="1.00" />
+			<point pos="3.882336 -6.895720 7.216434" range="1.00" height="1.00" />
+		</container>
+	</group>
+	<group name="land_ind_warehouse_old_brick_left"  lootmax="11">
+		<usage name="Industrial" />
+		<container name="lootshelves" lootmax="6">
+			<category name="weapons" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<tag name="shelves" />
+			<point pos="-11.951234 -5.422306 14.962861" range="0.35" height="0.50" />
+			<point pos="9.324766 -6.112306 15.290861" range="0.25" height="0.50" />
+			<point pos="-12.063234 -5.418306 -10.282139" range="0.35" height="0.50" />
+			<point pos="9.401766 -5.418306 -20.248139" range="0.35" height="0.50" />
+			<point pos="6.873766 -5.418306 -10.012139" range="0.35" height="0.50" />
+			<point pos="11.374766 -5.796306 0.765861" range="0.30" height="0.25" />
+		</container>
+		<container name="lootfloor" lootmax="5">
+			<category name="weapons" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<category name="vehiclesparts"/>
+			<tag name="floor" />
+			<tag name="ground"/>
+			<point pos="13.783766 -6.852306 -18.265139" range="1.00" height="1.00" />
+			<point pos="14.408766 -6.852306 14.515861" range="1.00" height="1.00" />
+			<point pos="8.692766 -6.852306 0.794861" range="1.00" height="1.00" />
+			<point pos="-10.525234 -6.852306 -7.085139" range="1.00" height="1.00" />
+			<point pos="-9.525234 -6.852306 13.409861" range="1.00" height="1.00" />
+		</container>
+	</group>
+	<group name="land_ind_warehouse_old_brick_right"  lootmax="8">
+		<usage name="Industrial" />
+		<container name="lootshelves" lootmax="5">
+			<category name="weapons" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<tag name="shelves" />
+			<point pos="-4.072563 -3.409684 -1.539748" range="0.35" height="0.50" />
+			<point pos="-5.967563 -3.787684 -18.017748" range="0.25" height="0.25" />
+			<point pos="-9.846563 -3.787684 -9.567748" range="0.25" height="0.25" />
+			<point pos="-9.865563 -3.787684 -8.408748" range="0.25" height="0.25" />
+			<point pos="-11.805563 -3.404684 -20.211748" range="0.35" height="0.35" />
+		</container>
+		<container name="lootfloor" lootmax="4">
+			<category name="weapons" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<category name="vehiclesparts"/>
+			<tag name="floor" />
+			<tag name="ground"/>
+			<point pos="-4.490563 -4.843684 14.778252" range="1.00" height="1.00" />
+			<point pos="9.292437 -4.843684 -17.554748" range="1.00" height="1.00" />
+			<point pos="-4.524563 -4.843684 -4.574748" range="1.00" height="1.00" />
+			<point pos="10.378437 -4.843684 -0.320748" range="1.00" height="1.00" />
+		</container>
+	</group>
+	
 		<!-- end -->
 		
 		<group name="Land_Mil_Barracks6" lootmax="25">

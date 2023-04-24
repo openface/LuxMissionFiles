@@ -4,6 +4,7 @@
 	<territories>
 		<file path="env/cattle_territories.xml" />
 		<file path="env/sheep_goat_territories.xml" />
+		<file path="env/goat_territories.xml" />
 		<file path="env/red_deer_territories.xml" />
 		<file path="env/roe_deer_territories.xml" />
 		<file path="env/wild_boar_territories.xml" />
