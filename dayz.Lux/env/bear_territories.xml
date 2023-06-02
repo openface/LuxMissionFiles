@@ -19,5 +19,7 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="8100" z="12265" r="150"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="6265" z="12740" r="150"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="6210" z="11690" r="150"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="7005" z="10520" r="150"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="2985" z="13265" r="150"/>
     </territory>
 </territory-type>

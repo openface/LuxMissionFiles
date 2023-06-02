@@ -30,5 +30,11 @@
         <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="9875" z="865" r="200"/>
         <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="11765" z="2240" r="200"/>
         <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="2250" z="14830" r="150"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="7390" z="12970" r="200"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="2830" z="7155" r="200"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="6390" z="9070" r="200"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="3810" z="12300" r="200"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="6040" z="12765" r="200"/>
+        <zone name="AnimalWildBoar" smin="0" smax="0" dmin="1" dmax="1" x="7950" z="13415" r="200"/>
     </territory>
 </territory-type>

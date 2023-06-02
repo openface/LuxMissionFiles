@@ -72,5 +72,8 @@
         <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5006.25" z="4357.5" r="50"/>
         <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="5518.13" z="4854.38" r="50"/>
         <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="8109.38" z="3924.38" r="50"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4419" z="8907.75" r="50"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4335.25" z="8890.25" r="50"/>
+        <zone name="AmbientHen" smin="0" smax="0" dmin="1" dmax="1" x="4552.5" z="1653" r="50"/>
     </territory>
 </territory-type>

@@ -338,6 +338,23 @@
 			<point pos="-4.584176 -0.828993 -1.200984" range="1.35" height="1.00" />
 		</container>
 	</group>
+	<group name="land_house_lux_7"  lootmax="3">
+		<usage name="Village" />
+		<container name="lootshelves" lootmax="3">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="food" />
+			<category name="clothes" />
+			<category name="weapons" />
+			<tag name="shelves" />
+			<point pos="-1.447004 -1.944422 2.726988" range="0.25" height="0.50" />
+			<point pos="1.402996 -2.116422 2.950988" range="0.35" height="0.50" />
+			<point pos="2.788996 -1.475422 1.942988" range="0.25" height="0.50" />
+			<point pos="1.841996 -1.860422 -0.016012" range="0.40" height="0.50" />
+			<point pos="-0.307004 -1.740422 -3.228012" range="0.20" height="0.20" />
+			<point pos="-1.479004 -1.740422 -3.228012" range="0.20" height="0.20" />
+		</container>
+	</group>
 	<group name="land_shop_house01" lootmax="15">
 		<usage name="Town" />
 		<container name="lootshelves" lootmax="15">
@@ -752,6 +769,27 @@
 			<point pos="-4.524563 -4.843684 -4.574748" range="1.00" height="1.00" />
 			<point pos="10.378437 -4.843684 -0.320748" range="1.00" height="1.00" />
 		</container>
+	</group>
+	<group name="land_watch_tower1"  lootmax="6">
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="Police" />
+		<container name="lootshelves" lootmax="6">
+			<category name="weapons" />
+			<tag name="floor" />
+			<point pos="0.947609 -1.181783 0.847387" range="0.65" height="0.50" />
+			<point pos="-0.611391 3.724217 -0.126613" range="1.10" height="1.00" />
+			<point pos="0.051609 3.726217 2.545387" range="0.60" height="0.50" />
+			<point pos="0.051609 3.726217 -2.479613" range="0.60" height="0.50" />
+			<point pos="2.501609 3.726217 0.004387" range="0.60" height="0.50" />
+			<point pos="-2.540391 3.726217 0.004387" range="0.60" height="0.50" />
+		</container>
+	</group>
+	
+	
+	<group name="land_complex1_apartments"  lootmax="0">
+		<usage name="Town" />
+		
 	</group>
 	
 		<!-- end -->
