@@ -355,9 +355,9 @@
 			<point pos="-1.479004 -1.740422 -3.228012" range="0.20" height="0.20" />
 		</container>
 	</group>
-	<group name="land_shop_house01" lootmax="15">
+	<group name="land_shop_house01" lootmax="20">
 		<usage name="Town" />
-		<container name="lootshelves" lootmax="15">
+		<container name="lootshelves" lootmax="20">
 			<category name="tools" />
 			<category name="containers" />
 			<category name="food" />
@@ -365,12 +365,12 @@
 			<category name="weapons" />
 			<tag name="shelves" />
 			<tag name="floor" />
-			<point pos="-4.275424 -2.900638 3.595789" range="0.12" height="0.20" />
-			<point pos="-2.265424 -2.900638 3.595789" range="0.12" height="0.20" />
-			<point pos="-0.239424 -2.900638 3.595789" range="0.12" height="0.20" />
-			<point pos="-4.610424 -2.895638 -3.220211" range="0.12" height="0.20" />
-			<point pos="-2.850424 -2.895638 0.188789" range="0.10" height="0.20" />
-			<point pos="-2.480424 -2.895638 0.187789" range="0.10" height="0.20" />
+			<point pos="-4.275424 -2.900638 3.595789" range="0.15" height="0.20" />
+			<point pos="-2.265424 -2.900638 3.595789" range="0.15" height="0.20" />
+			<point pos="-0.239424 -2.900638 3.595789" range="0.15" height="0.20" />
+			<point pos="-4.610424 -2.895638 -3.220211" range="0.15" height="0.20" />
+			<point pos="-2.850424 -2.895638 0.188789" range="0.12" height="0.20" />
+			<point pos="-2.480424 -2.895638 0.187789" range="0.12" height="0.20" />
 			<point pos="-1.214424 -3.541638 -2.868211" range="0.25" height="0.25" />
 			<point pos="0.744576 -3.541638 -2.868211" range="0.25" height="0.25" />
 			<point pos="0.528576 -3.137638 0.553789" range="0.30" height="0.30" />
@@ -677,7 +677,7 @@
 			<category name="tools" />
 			<category name="explosives"/>
 			<tag name="shelves" />
-			<point pos="-0.000375 -1.658480 0.612713" range="0.60" height="0.50" />
+			<point pos="-0.000375 0.341520 0.612713" range="0.60" height="0.50" />
 			<point pos="-0.000375 0.341520 -0.745287" range="0.60" height="0.50" />
 		</container>
 	</group>
@@ -783,6 +783,37 @@
 			<point pos="0.051609 3.726217 -2.479613" range="0.60" height="0.50" />
 			<point pos="2.501609 3.726217 0.004387" range="0.60" height="0.50" />
 			<point pos="-2.540391 3.726217 0.004387" range="0.60" height="0.50" />
+		</container>
+	</group>
+	
+	
+	<group name="land_ind_warehouse_conc1"  lootmax="12">
+		<usage name="Industrial" />
+		<container name="lootshelves" lootmax="8">
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<tag name="shelves" />
+			<point pos="-13.440234 -9.780811 -0.227250" range="0.30" height="0.30" />
+			<point pos="-10.719234 -9.780811 -0.227250" range="0.30" height="0.30" />
+			<point pos="14.397766 -9.395811 -19.667250" range="0.40" height="0.50" />
+			<point pos="14.797766 -10.053811 -4.826250" range="0.30" height="0.30" />
+			<point pos="-10.705234 0.388189 -0.228250" range="0.30" height="0.30" />
+			<point pos="-13.443234 0.388189 -0.228250" range="0.30" height="0.30" />
+			<point pos="14.665766 -4.833811 -19.494250" range="0.40" height="0.40" />
+			<point pos="14.384766 5.442189 -14.336250" range="0.40" height="0.40" />
+		</container>
+		<container name="lootfloor" lootmax="4">
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="tools" />
+			<category name="vehiclesparts"/>
+			<tag name="floor" />
+			<tag name="ground"/>
+			<point pos="-3.767234 -10.830811 18.902750" range="1.50" height="1.50" />
+			<point pos="12.145766 -10.830811 3.558750" range="1.50" height="1.50" />
+			<point pos="12.279766 -5.779811 17.979750" range="1.50" height="1.50" />
+			<point pos="13.083766 -5.779811 -4.302250" range="1.50" height="1.50" />
 		</container>
 	</group>
 	
@@ -5461,7 +5492,7 @@
 						<point pos="0.217285 -0.786583 -0.442139" range="0.287598" height="0.718994" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Caravan_MGreen" lootmax="2">
+		<group name="Land_Wreck_Caravan_MGreen" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="2">
@@ -5481,7 +5512,7 @@
 						<point pos="-1.013979 -0.685593 0.002896" range="1.050293" height="2.035736" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Caravan_MRust" lootmax="2">
+		<group name="Land_Wreck_Caravan_MRust" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="2">
@@ -5501,7 +5532,7 @@
 						<point pos="-1.012463 -0.734970 0.002916" range="1.050293" height="2.060913" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Caravan_WBrown" lootmax="2">
+		<group name="Land_Wreck_Caravan_WBrown" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="2">
@@ -5521,7 +5552,7 @@
 						<point pos="-1.012207 -0.694077 0.004639" range="1.050293" height="1.642754" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Caravan_WGreen" lootmax="2">
+		<group name="Land_Wreck_Caravan_WGreen" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="2">
@@ -5541,7 +5572,7 @@
 						<point pos="-1.010966 -0.700295 0.003085" range="1.050293" height="2.006676" />
 				</container>
 		</group>
-		<group name="Land_Wreck_S1023_Blue" lootmax="4">
+		<group name="Land_Wreck_S1023_Blue" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5560,7 +5591,7 @@
 						<point pos="1.546815 -0.520454 0.114379" range="0.607118" height="0.100162" />
 				</container>
 		</group>
-		<group name="Land_Wreck_S1023_Red" lootmax="4">
+		<group name="Land_Wreck_S1023_Red" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5580,7 +5611,7 @@
 						<point pos="0.943783 -0.533066 0.209129" range="0.493164" height="1.064041" />
 				</container>
 		</group>
-		<group name="Land_Wreck_S1023_Beige" lootmax="4">
+		<group name="Land_Wreck_S1023_Beige" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5600,7 +5631,7 @@
 						<point pos="0.946747 -0.555740 0.208399" range="0.493164" height="1.224564" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Ikarus" lootmax="4">
+		<group name="Land_Wreck_Ikarus" lootmax="2">
 				<usage name="Village" />
 				<usage name="Office" />
 				<usage name="School" />
@@ -5623,7 +5654,7 @@
 						<point pos="0.857422 -0.447495 0.353271" range="0.488770" height="1.083093" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Volha_Grey" lootmax="4">
+		<group name="Land_Wreck_Volha_Grey" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5652,7 +5683,7 @@
 						<point pos="1.737305 -0.238258 0.215820" range="0.343018" height="0.172145" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Volha_Blue" lootmax="4">
+		<group name="Land_Wreck_Volha_Blue" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5681,7 +5712,7 @@
 						<point pos="1.737305 -0.238258 0.215820" range="0.343018" height="0.172145" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Lada_Green" lootmax="4">
+		<group name="Land_Wreck_Lada_Green" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -5711,7 +5742,7 @@
 						<point pos="1.633564 -0.286926 -0.299463" range="0.290039" height="0.200411" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Lada_Red" lootmax="4">
+		<group name="Land_Wreck_Lada_Red" lootmax="1">
 				<usage name="Town" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -15959,7 +15990,7 @@
 						<point pos="5.288086 -2.245277 -3.238281" range="0.858188" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Wreck_hb01_aban1_blue" lootmax="2">
+		<group name="Land_Wreck_hb01_aban1_blue" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -15987,7 +16018,7 @@
 						<proxy type="HatchbackTrunk_BlueRust" pos="1.726000 0.304000 -0.050000" rpy="20.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban1_green" lootmax="2">
+		<group name="Land_Wreck_hb01_aban1_green" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Hunting" />
@@ -16014,7 +16045,7 @@
 						<proxy type="HatchbackTrunk_GreenRust" pos="1.726000 0.304000 -0.050000" rpy="20.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban1_white" lootmax="2">
+		<group name="Land_Wreck_hb01_aban1_white" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16058,7 +16089,7 @@
 						<point pos="0.182781 -1.074524 -1.031443" range="0.703197" height="0.329239" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Wreck_hb01_aban2_blue" lootmax="2">
+		<group name="Land_Wreck_hb01_aban2_blue" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16086,7 +16117,7 @@
 						<proxy type="HatchbackHood_BlueRust" pos="-1.451000 0.095000 0.050000" rpy="1.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban2_green" lootmax="2">
+		<group name="Land_Wreck_hb01_aban2_green" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Hunting" />
@@ -16113,7 +16144,7 @@
 						<proxy type="HatchbackHood_GreenRust" pos="-1.451000 0.095000 0.050000" rpy="1.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban2_white" lootmax="2">
+		<group name="Land_Wreck_hb01_aban2_white" lootmax="1">
 				<usage name="Farm" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16157,7 +16188,7 @@
 						<point pos="-0.165021 -0.967194 0.915932" range="0.566987" height="0.373947" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Wreck_hb02_aban1_red" lootmax="2">
+		<group name="Land_Wreck_hb02_aban1_red" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16186,7 +16217,7 @@
 						<proxy type="Hatchback_02_Trunk_RedRust" pos="1.284000 0.712000 -0.100000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban1_black" lootmax="2">
+		<group name="Land_Wreck_hb02_aban1_black" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16215,7 +16246,7 @@
 						<proxy type="Hatchback_02_Trunk_BlackRust" pos="1.284000 0.712000 -0.100000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban1_blue" lootmax="2">
+		<group name="Land_Wreck_hb02_aban1_blue" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16244,7 +16275,7 @@
 						<proxy type="Hatchback_02_Trunk_BlueRust" pos="1.284000 0.712000 -0.100000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_red" lootmax="2">
+		<group name="Land_Wreck_hb02_aban2_red" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16275,7 +16306,7 @@
 						<proxy type="Hatchback_02_Hood_RedRust" pos="-0.433000 0.269000 0.020000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_black" lootmax="2">
+		<group name="Land_Wreck_hb02_aban2_black" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16306,7 +16337,7 @@
 						<proxy type="Hatchback_02_Hood_BlackRust" pos="-0.433000 0.269000 0.020000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_blue" lootmax="2">
+		<group name="Land_Wreck_hb02_aban2_blue" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16337,7 +16368,7 @@
 						<proxy type="Hatchback_02_Hood_BlueRust" pos="-0.433000 0.269000 0.020000" rpy="0.000000 180.000000 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban1_white" lootmax="2">
+		<group name="Land_Wreck_sed01_aban1_white" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16370,7 +16401,7 @@
 						<proxy type="CivSedanHood_WhiteRust" pos="-1.590000 0.300000 0.150000" rpy="-90.000000 8.000000 95.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban1_black" lootmax="2">
+		<group name="Land_Wreck_sed01_aban1_black" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16403,7 +16434,7 @@
 						<proxy type="CivSedanHood_BlackRust" pos="-1.590000 0.300000 0.150000" rpy="-90.000000 8.000000 95.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban1_wine" lootmax="2">
+		<group name="Land_Wreck_sed01_aban1_wine" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16436,7 +16467,7 @@
 						<proxy type="CivSedanHood_WineRust" pos="-1.590000 0.300000 0.150000" rpy="-90.000000 8.000000 95.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban2_white" lootmax="2">
+		<group name="Land_Wreck_sed01_aban2_white" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16467,7 +16498,7 @@
 						<proxy type="CivSedanTrunk_WhiteRust" pos="2.213000 0.203000 0.070000" rpy="-90.000000 0.500000 87.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban2_wine" lootmax="2">
+		<group name="Land_Wreck_sed01_aban2_wine" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16498,7 +16529,7 @@
 						<proxy type="CivSedanTrunk_WineRust" pos="2.213000 0.203000 0.070000" rpy="-90.000000 0.500000 87.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban2_black" lootmax="2">
+		<group name="Land_Wreck_sed01_aban2_black" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16529,7 +16560,7 @@
 						<proxy type="CivSedanTrunk_BlackRust" pos="2.213000 0.203000 0.070000" rpy="-90.000000 0.500000 87.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_yellow" lootmax="2">
+		<group name="Land_Wreck_sed02_aban1_yellow" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16559,7 +16590,7 @@
 						<proxy type="Sedan_02_Trunk_YellowRust" pos="1.518000 0.155000 -0.144000" rpy="0.000000 183.000000 85.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_grey" lootmax="2">
+		<group name="Land_Wreck_sed02_aban1_grey" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16589,7 +16620,7 @@
 						<proxy type="Sedan_02_Trunk_GreyRust" pos="1.518000 0.155000 -0.144000" rpy="0.000000 183.000000 85.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_red" lootmax="2">
+		<group name="Land_Wreck_sed02_aban1_red" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16619,7 +16650,7 @@
 						<proxy type="Sedan_02_Trunk_RedRust" pos="1.518000 0.155000 -0.144000" rpy="0.000000 183.000000 85.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban2_yellow" lootmax="2">
+		<group name="Land_Wreck_sed02_aban2_yellow" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16650,7 +16681,7 @@
 						<proxy type="Sedan_02_Hood_YellowRust" pos="-1.608000 0.395000 -0.174000" rpy="0.000000 180.000000 90.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban2_grey" lootmax="2">
+		<group name="Land_Wreck_sed02_aban2_grey" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16681,7 +16712,7 @@
 						<proxy type="Sedan_02_Hood_GreyRust" pos="-1.608000 0.395000 -0.174000" rpy="0.000000 180.000000 90.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban2_red" lootmax="2">
+		<group name="Land_Wreck_sed02_aban2_red" lootmax="1">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<usage name="Office" />
@@ -16712,7 +16743,7 @@
 						<proxy type="Sedan_02_Hood_RedRust" pos="-1.608000 0.395000 -0.174000" rpy="0.000000 180.000000 90.000000" dechance="0.000000" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_offroad02_aban1" lootmax="6">
+		<group name="Land_Wreck_offroad02_aban1" lootmax="1">
 				<usage name="Military" />
 				<container name="loot" lootmax="6">
 						<category name="containers" />
@@ -16743,7 +16774,7 @@
 						<proxy type="Offroad_02_Trunk_Rust" pos="1.8 -0.15 0.0" rpy="0.0 90.0 0.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_offroad02_aban2" lootmax="2">
+		<group name="Land_Wreck_offroad02_aban2" lootmax="1">
 				<usage name="Military" />
 				<container name="loot" lootmax="2">
 						<category name="containers" />
