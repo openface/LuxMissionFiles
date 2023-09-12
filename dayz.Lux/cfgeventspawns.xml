@@ -193,7 +193,6 @@
     <event name="StaticContaminatedArea">
 		<zone smin="0" smax="0" dmin="5" dmax="8" r="80" />
 		<pos x="8820" z="13443" />
-		<pos x="4278" z="14405" />
 		<pos x="3718" z="9509" />
 		<pos x="3195" z="9840" />
 		<pos x="4034" z="9255" />
@@ -242,12 +241,24 @@
 		<pos x="7419" z="13129" a="0.0" />
 	</event>
 	<event name="VehicleOffroad02">
-		<pos x="4340" z="14266" a="0.0" />
-		<pos x="4295" z="14215" a="0.0" />
-		<pos x="4257" z="14193" a="0.0" />
-		<pos x="4126" z="14226" a="0.0" />
-		<pos x="4200" z="14245" a="0.0" />
-		<pos x="4255" z="14542" a="0.0" />
+		<!-- comms -->
+		<pos x="5965" z="13513" a="0.0" />
+		<pos x="5988" z="13554" a="0.0" />
+		<pos x="6146" z="13555" a="0.0" />
+		<pos x="6159" z="13440" a="0.0" />
+		<pos x="5985" z="13436" a="0.0" />
+		<!-- bunker -->
+		<pos x="8905" z="13677" a="0.0" />
+		<pos x="8938" z="13572" a="0.0" />
+		<!-- khu -->
+		<pos x="7353" z="10454" a="0.0" />
+		<pos x="7368" z="10441" a="0.0" />
+		<pos x="7354" z="10388" a="0.0" />
+		<!-- naval base -->
+		<pos x="2563" z="13116" a="0.0" />
+		<pos x="2593" z="13180" a="0.0" />
+		<pos x="2637" z="13089" a="0.0" />
+		<pos x="2636" z="13049" a="0.0" />
     </event>
 	<event name="VehicleHatchback02">
 		<pos x="3534" z="4502" a="0.0" />
@@ -310,6 +321,12 @@
 		<pos x="6638" z="12165" a="0.0" />
 		<pos x="6520" z="12106" a="0.0" />
 		<pos x="6444" z="12126" a="0.0" />
+		<!-- south of airfield industrial -->
+		<pos x="2552" z="8769" a="0.0" />
+		<pos x="2423" z="8900" a="0.0" />
+		<pos x="2334" z="8916" a="0.0" />
+		<pos x="2255" z="8952" a="0.0" />
+		<pos x="2617" z="8964" a="0.0" />
 	</event>
 	<event name="StaticTrain">
 		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
@@ -347,39 +364,9 @@
 	</event>
 	<event name="StaticPoliceSituation">
 		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
-		<pos x="10260.424" z="4227.363" a="0" y="339.232" group="Block_Gieraltow"/>
-		<pos x="3790.821" z="8760.385" a="0" y="191.608" group="Block_Radacz"/>
-		<pos x="9027.775" z="4452.407" a="0" y="344.126" group="Block_Wrezsc"/>
-		<pos x="1500.855" z="4734.762" a="0" y="258.605" group="Block_Zalesie"/>
-		<pos x="8558.479" z="8723.554" a="0" y="272.664" group="Block_Zapadlisko"/>
-		<pos x="2740.029" z="6913.033" a="0" y="257.667" group="Traffic_Adamow"/>
-		<pos x="1886.786" z="10096.979" a="0" y="272.403" group="Traffic_Bielawa"/>
-		<pos x="865.783" z="9049.986" a="0" y="260.021" group="Traffic_Bielawa2"/>
-		<pos x="9743.615" z="9107.418" a="0" y="227.835" group="Traffic_Borek"/>
-		<pos x="5930.188" z="10933.437" a="0" y="182.797" group="Traffic_Brena"/>
-		<pos x="10678.632" z="1154.983" a="0" y="232.818" group="Traffic_Dolina"/>
-		<pos x="12419.815" z="6168.886" a="0" y="284.690" group="Traffic_Gierlatow"/>
-		<pos x="5234.237" z="10300.578" a="0" y="189.468" group="Traffic_Gliniska"/>
-		<pos x="3155.413" z="4940.649" a="0" y="404.867" group="Traffic_Huta"/>
-		<pos x="5583.282" z="5805.994" a="0" y="348.470" group="Traffic_Huta2"/>
-		<pos x="10999.524" z="6966.359" a="0" y="199.977" group="Traffic_karlin"/>
-		<pos x="5968.213" z="9102.400" a="0" y="244.832" group="Traffic_Kopa"/>
-		<pos x="4149.393" z="10874.596" a="0" y="215.978" group="Traffic_Lukow"/>
-		<pos x="3107.630" z="11331.740" a="0" y="270.126" group="Traffic_Lukow2"/>
-		<pos x="3415.085" z="12256.862" a="0" y="253.515" group="Traffic_Lukow3"/>
-		<pos x="6263.151" z="3938.712" a="0" y="382.438" group="Traffic_nadbor"/>
-		<pos x="5305.800" z="3676.219" a="0" y="417.766" group="Traffic_Nadbor2"/>
-		<pos x="4602.298" z="7681.091" a="0" y="269.501" group="Traffic_Olsanka"/>
-		<pos x="3905.947" z="2211.016" a="0" y="504.465" group="Traffic_Polana"/>
-		<pos x="8312.609" z="6362.448" a="0" y="304.761" group="Traffic_Radunin"/>
-		<pos x="7863.204" z="3793.486" a="0" y="368.221" group="Traffic_Sila"/>
-		<pos x="11005.901" z="9121.471" a="0" y="185.517" group="Traffic_Sitnik"/>
-		<pos x="9316.563" z="10861.035" a="0" y="199.464" group="Traffic_Tarnow"/>
-		<pos x="9493.384" z="11606.231" a="0" y="174.268" group="Traffic_Tarnow2"/>
-		<pos x="1481.821" z="7401.071" a="0" y="183.630" group="Traffic_Topolin"/>
-		<pos x="1510.471" z="8340.896" a="0" y="231.634" group="Traffic_Topolin2"/>
-		<pos x="10213.420" z="2185.113" a="0" y="242.528" group="Traffic_Widok"/>
-		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
+		<pos x="7079" z="2865" a="0" y="339.232" group="Block_Gieraltow"/>
+		<pos x="7855" z="2675" a="0" y="191.608" group="Block_Radacz"/>
+		
 	</event>
 
     <event name="VehicleTransitBus" />

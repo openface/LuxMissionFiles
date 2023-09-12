@@ -58,9 +58,23 @@
 			<export name="quarryenoch_10_50" shape="DZ\structures_bliss\Roads\Parts\quarryenoch_10 50.p3d" />
 			<export name="quarryenoch_10_75" shape="DZ\structures_bliss\Roads\Parts\quarryenoch_10 75.p3d" />
 			<export name="quarryenoch_10_100" shape="DZ\structures_bliss\Roads\Parts\quarryenoch_10 100.p3d" />
+			
+			<export name="WatermelonPlant" shape="tropical\plants\p_watermelon_plant.p3d" />
 		</clusters>
 
 <!--Groups -->
+
+<!-- Lux -->
+		<cluster name="WatermelonPlant" lootmax="2" maxinstances="155">
+			<de name="TrajectoryWatermelon" />
+			<container name="branch" lootmax="1">
+				<point pos="0.0 0.0 0.0" range="0.30" height="0.43" flags="32" />
+				<point pos="1.23 0.0 -2.94" range="0.30" height="0.43" flags="32" />
+				<point pos="2.42 0.0 -0.70" range="0.30" height="0.43" flags="32" />
+				<point pos="-2.29 0.0 0.85" range="0.30" height="0.43" flags="32" />
+				<point pos="-1.13 0.0 2.85" range="0.30" height="0.43" flags="32" />
+			</container>
+		</cluster>
 <!--Mushrooms - Coniferous -->
 		<cluster name="PiceaAbies_fallend" lootmax="2" maxinstances="155">
 			<de name="TrajectoryConiferous" />

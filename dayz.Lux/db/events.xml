@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+	<!-- Lux -->
+	<event name="TrajectoryWatermelon">
+        <nominal>140</nominal>
+        <min>2</min>
+        <max>4</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>25</saferadius>
+        <distanceradius>100</distanceradius>
+        <cleanupradius>25</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>player</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="lux_Watermelon"/>
+        </children>
+    </event>
+	<!-- Lux end -->
     <event name="AmbientHen">
         <nominal>3</nominal>
         <min>0</min>
@@ -488,9 +507,9 @@
         </children>
     </event>
     <event name="InfectedPoliceHard">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>20</nominal>
+        <min>10</min>
+        <max>50</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -793,8 +812,8 @@
         </children>
     </event>
     <event name="StaticPoliceSituation">
-        <nominal>5</nominal>
-        <min>5</min>
+        <nominal>1</nominal>
+        <min>1</min>
         <max>0</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -967,8 +986,8 @@
     </event>
     <event name="VehicleOffroad02">
         <nominal>4</nominal>
-        <min>2</min>
-        <max>3</max>
+        <min>3</min>
+        <max>5</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1021,8 +1040,8 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>5</nominal>
-        <min>3</min>
+        <nominal>6</nominal>
+        <min>4</min>
         <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>

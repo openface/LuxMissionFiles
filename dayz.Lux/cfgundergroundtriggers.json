@@ -2,101 +2,151 @@
     "Triggers":
 	[
 		{
-		   "Position": [ 8995, 37, 13703.5],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 18, 8, 11 ],
-		   "EyeAccommodation": 1,
-		   "Breadcrumbs": [],
-		   "InterpolationSpeed": 1
+			"Name": "main bunker entry room",
+			"Position": [ 8995, 37, 13703.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 18, 8, 11 ],
+			"EyeAccommodation": 1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		},
-		
-		
 		{  
-		   "Position": [ 9025.5, 37, 13710.5 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 43, 8, 25 ],
-		   "EyeAccommodation": 0.5,
-		   "Breadcrumbs":[],
-		   "InterpolationSpeed": 10
+			"Name": "main bunker outer tunnel",
+			"Position": [ 9025.5, 37, 13710.5 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 43, 8, 25 ],
+			"EyeAccommodation": 0.75,
+			"Breadcrumbs":[],
+			"InterpolationSpeed": 10
+		},
+		{ 
+			"Name": "main bunker inner",
+			"Position": [ 9203.5, 31, 13769 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 313, 20, 206 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		},
 		
 		
-		{  
-		   "Position": [ 9203.5, 31, 13769 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 313, 20, 206 ],
-		   "EyeAccommodation": 0,
-		   "Breadcrumbs": [],
-		   "InterpolationSpeed": 1
+		{
+			"Name": "peak mine shaft",
+			"Position": [ 3305, 210, 11879],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 40, 30, 10 ],
+			"EyeAccommodation": 0.75,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 
+			"Name": "peak mine inner 1",
+			"Position": [ 3201, 168.5, 11920 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 192, 77, 190 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":[],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "peak mine inner 2",
+			"Position": [ 3056.5, 133.5, 11998.5 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 97, 37, 89 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":[],
+			"InterpolationSpeed": 1
 		},
 		
 		
+		{
+			"Name": "wujara colliery entry",
+			"Position": [ 7489.5, 15, 6631.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 13, 10, 43 ],
+			"EyeAccommodation": 0.75,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "wujara colliery 1",
+			"Position": [ 7424, 18.9, 6664 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 118, 17.8, 128 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":[],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "wujara colliery 2",
+			"Position": [ 7318.5, 26, 6706.5 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 103, 32, 151 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":[],
+			"InterpolationSpeed": 1
+		},
 		
 		
-		
+		{
+			"Name": "airport tunnel",
+			"Position": [ 2272, 21.25, 10337.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 220, 8.5, 269 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "airport tunnel stairs",
+			"Position": [ 2293.5, 51.5, 10395],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 53, 40 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
 		
 		
 		
 		
 		
 		{
-		   "Position": [ 3305, 210, 11879],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 40, 30, 10 ],
-		   "EyeAccommodation": 0.5,
-		   "Breadcrumbs": [],
-		   "InterpolationSpeed": 1
+			"Name": "naval base road tunnel",
+			"Position": [ 3114.8, 32.5, 12769],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 274.4, 8, 330 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		},
-		{  
-		   "Position": [ 3201, 168.5, 11920 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 192, 77, 190 ],
-		   "EyeAccommodation": 0,
-		   "Breadcrumbs":[],
-		   "InterpolationSpeed": 1
-		},
-		{  
-		   "Position": [ 3056.5, 133.5, 11998.5 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 97, 37, 89 ],
-		   "EyeAccommodation": 0,
-		   "Breadcrumbs":[],
-		   "InterpolationSpeed": 1
-		},
-		
-		
-		
-		
-		
-		
-		
-		
 		{
-		   "Position": [ 7489.5, 15, 6631.5],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 13, 10, 43 ],
-		   "EyeAccommodation": 0.5,
-		   "Breadcrumbs": [],
-		   "InterpolationSpeed": 1
+			"Name": "naval base tunnel stairs",
+			"Position": [ 3174, 68.25, 12761.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 79.5, 23 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		},
-		{  
-		   "Position": [ 7424, 18.9, 6664 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 118, 17.8, 128 ],
-		   "EyeAccommodation": 0,
-		   "Breadcrumbs":[],
-		   "InterpolationSpeed": 1
+		{
+			"Name": "naval base corridor (east)",
+			"Position": [ 3109, 36, 12825.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 236, 14, 221 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		},
-		{  
-		   "Position": [ 7318.5, 26, 6706.5 ],
-		   "Orientation": [ 0, 0, 0 ],
-		   "Size": [ 103, 32, 151 ],
-		   "EyeAccommodation": 0,
-		   "Breadcrumbs":[],
-		   "InterpolationSpeed": 1
+		{
+			"Name": "naval base corridor (west)",
+			"Position": [ 2895.5, 36, 12999],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 241, 14, 172 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		}
 		
-		
-	
 	]
 }
