@@ -24,7 +24,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="Comms"/>
     </type>
-	
 	<type name="lux_WatermelonSlice">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -36,6 +35,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
     </type>
+	<type name="lux_JadeDagger">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Temple"/>
+    </type>
+	
+	
 	<!--------->
 	
     <type name="ACOGOptic">
@@ -7698,7 +7711,7 @@
         <category name="tools"/>
     </type>
     <type name="Glock19">
-        <nominal>12</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -11017,6 +11030,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
 		<usage name="Town"/>
+		<usage name="Temple"/>
     </type>
     <type name="MP5K">
         <nominal>25</nominal>
@@ -11405,7 +11419,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_Glock_15Rnd">
-        <nominal>15</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -11441,6 +11455,7 @@
         <category name="weapons"/>
         <usage name="Village"/>
 		<usage name="Town"/>
+		<usage name="Temple"/>
     </type>
     <type name="Mag_MP5_15Rnd">
         <nominal>20</nominal>
@@ -14795,10 +14810,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SSG82">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>0</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -18850,6 +18865,7 @@
         <tag name="shelves"/>
         <usage name="Hunting"/>
 		<usage name="Mine"/>
+		<usage name="Temple"/>
     </type>
     <type name="ZagorkyPeanuts">
         <nominal>7</nominal>
@@ -18866,6 +18882,7 @@
         <usage name="Office"/>
         <usage name="School"/>
         <usage name="Lunapark"/>
+		<usage name="Temple"/>
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>

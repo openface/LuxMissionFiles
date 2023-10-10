@@ -146,6 +146,35 @@
 			"EyeAccommodation": 0.95,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
+		},
+		
+		{
+			"Name": "ruin (tengah) east",
+			"Position": [ 4806.25, 217, 5904],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 180.5, 44, 56 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "ruin (tengah) west",
+			"Position": [ 4372.5, 194, 5910.75],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 695, 22, 98.5 ],
+			"EyeAccommodation": 0.95,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		
+		{
+			"Name": "ruin wujara",
+			"Position": [ 7275.5, 34.75, 6920],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 81, 28.5, 380 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		}
 		
 	]

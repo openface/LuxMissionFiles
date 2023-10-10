@@ -1000,6 +1000,17 @@
 			<point pos="-2.765047 1.055853 1.925941" range="0.60" height="1.00" />
 		</container>
 	</group>
+	<group name="land_aztec_stone_chest"  lootmax="1">
+		<usage name="Temple" />
+		<container name="lootshelves" lootmax="1">
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="food" />
+			<category name="weapons" />
+			<point pos="0.000051 0.411222 -0.000125" range="0.60" height="1.00" />
+		</container>
+	</group>
 	
 		<!-- DayZ -->
 		
